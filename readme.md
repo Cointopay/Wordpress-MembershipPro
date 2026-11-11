@@ -1,4 +1,4 @@
-# Cointopay Gateway for Paid Memberships Pro
+# Cointopay Gateway for Wordpress Paid Memberships Pro (PMPro) 
 Contributors: strangerstudios
 
 Tags: membership, memberships, member, members
@@ -14,7 +14,7 @@ Cointopay Gateway for Paid Memberships Pro
 ## Description
 ### Cointopay Gateway for Paid Memberships Pro
 
-### Simple to install and get running – deeply customizable!
+### Simple to install and get running â€“ deeply customizable!
 1) Unlimited Levels with Flexible Membership Pricing
 2) Extensive Options for Content Restriction
 3) Customizable Reports and Member Dashboards
